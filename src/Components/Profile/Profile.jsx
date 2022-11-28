@@ -23,7 +23,7 @@ const Profile = () => {
                         <ul className='profileHeader__personalInfo'>
                             <li><span>Date of Birth: </span>22 june</li>
                             <li><span>City: </span>Moscow</li>
-                            <li><span>Education: </span>MAI</li>
+                            <li><span>Education: </span>Школа миньета</li>
                         </ul>
                     </div>
                 </div>
